@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Day in the Life of Gabe
+subtitle: The most spoiled dog in the world
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
