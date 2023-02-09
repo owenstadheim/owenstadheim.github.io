@@ -9,7 +9,7 @@ comments: true
 ---
 I am from Lyme, New Hampshire where I grew up with my parents and two brothers. When I was young my dad built a skating rink in our backyard, which sparked my passion for ice hockey. Hockey has been a big part of my life and I have been fortunate to have the opportunity to play here at Williams. For fun, I love to play golf and tennis with my family and play with my dog, Gabe. 
 
-**6:30am**
+****
 
 ## Gabe's Morning Run
 
