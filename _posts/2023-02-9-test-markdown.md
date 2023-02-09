@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Day in the Life of Gabe
-subtitle: The most spoiled dog in the world
+title: About Me
+subtitle: Sophomore at Williams College
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-Gabe is a 4 year old golden retriever who loves morning runs and swimming in the pond. He is extremely playful but also enjoys his afternoon naps on the couch. His favorite things to chew on are golf balls and crab apples. 
+I am originally from Lyme, New Hampshire where I grew up with my parents and two brothers. When I was young my dad built a skating rink in our backyard, which sparked my passion for ice hockey. Hockey has been a big part of my life and I have been fortunate to have the opportunity to play here at Williams. For fun, I love to play golf and tennis with my family and play with my dog, Gabe. 
 
 **6:30am**
 
 ## Gabe's Morning Run
 
-Here's a useless table:
+! [Run]
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
