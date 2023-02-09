@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-Gabe is a 4 year old golden retriever who loves morning runs and swimming in the pond. He is extremely playful but also enjoys his afternoon naps on the couch. His favorite things to chew on are gof balls and crab apples. 
+Gabe is a 4 year old golden retriever who loves morning runs and swimming in the pond. He is extremely playful but also enjoys his afternoon naps on the couch. His favorite things to chew on are golf balls and crab apples. 
 
 **Day in the Life of Gabe**
 
