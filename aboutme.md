@@ -3,14 +3,12 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+I am from Lyme, New Hampshire where I grew up with my parents and two brothers. When I was young my dad built a skating rink in our backyard, which sparked my passion for ice hockey. Hockey has been a big part of my life and I have been fortunate to have the opportunity to play here at Williams. In my free time, I love playing tennis and golf and taking my golden retriever swimming at the pond.
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+
