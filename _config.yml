@@ -21,7 +21,7 @@ author: Owen Stadheim
 
 navbar-links:
   About ME: "aboutme"
-  Contact me:
+  Contact me: "contactme"
     
   
 
@@ -54,7 +54,8 @@ social-network-links:
   github: 
   twitter: owenstadheim
   
-  
+  Email: ops1@williams.edu
+  Phone: 603-359-0986
 #  medium: 
 #  reddit: 
 #  linkedin: owenstadheim
