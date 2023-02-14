@@ -21,10 +21,10 @@ author: Owen Stadheim
 
 navbar-links:
   About ME: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: 
+  Contact me:
+    - Beautiful Jekyll: (M) (603) 359-0986
+    - Email me: "ops1@williams.edu" 
+  
 
 ################
 # --- Logo --- #
@@ -49,7 +49,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ops1@williams.edu"
+
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: owenstadheim
   github: 
