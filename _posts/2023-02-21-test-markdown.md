@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Sewing Priject
+title: My Sewing Project
 
 https://owenstadheim.github.io/assets/img/IMG_6896.heic
 
