@@ -1,20 +1,19 @@
 ---
 layout: post
-title: My Sewing Project
+title: Sweater Weather
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
+
+
+For this assignment I wrote code that would produce an output that would suggest what clothes to wear depending on the temperature. If the temperature is below 60 degrees, the code will tell you its sweater weather. If the temperature is 60 degrees, the code will tell you its long sleeve weather. If its above 60 degrees, the code will tel you its shorts weather. 
+
+One tip for this assignment is to 
+
 https://owenstadheim.github.io/assets/img/sweaterweater.png
-
-The first thing I learned when doing this project is not to break your sewing needle the night the assignment is due. This makes it very difficult to finish. The other is how important attention to detail is when sewing and one tip I have is to put in 45 minutes of work then take a 5 minute break. This allows your brain to take a break and allows you be more focused when you start again. 
-
-
-
-
-
 
 
 
