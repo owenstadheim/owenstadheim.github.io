@@ -13,7 +13,7 @@ For this assignment I wrote code that would produce an output that would suggest
 
 One tip for this assignment is to 
 
-![code output for assignment](https:owenstadheim.github.io/assets/img/sweaterweater.png)
+![code output for assignment](https://owenstadheim.github.io/assets/img/sweaterweater.png)
 
 
 
