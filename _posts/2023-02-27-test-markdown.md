@@ -18,7 +18,7 @@ Paper Prototype
 
 Alligator Prototype
 
-![inside of circuit plushy](https://owenstadheim.github.io/assets/img/circuitplushyalligator.png)
+![alligator clips](https://owenstadheim.github.io/assets/img/circuitplushyalligator.png)
 
 Back
 
