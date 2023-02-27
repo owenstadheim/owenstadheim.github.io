@@ -18,15 +18,18 @@ Paper Prototype
 
 Alligator Prototype
 
-![inside of circuit plushy](https://owenstadheim.github.io/assets/img/circuitplushy.png)
+![inside of circuit plushy](https://owenstadheim.github.io/assets/img/circuitplushyalligator.png)
 
 Back
+
 ![paper prototype](https://owenstadheim.github.io/assets/img/circuitplushyback.png)
 
 Front
+
 ![paper prototype](https://owenstadheim.github.io/assets/img/circuitplushyfront.png)
 
 Lights
+
 ![paper prototype](https://owenstadheim.github.io/assets/img/circuitplushylights.png)
 
 
