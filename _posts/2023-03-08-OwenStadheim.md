@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Odd Menu
+title: RBG Loop
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
