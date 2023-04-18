@@ -1,0 +1,10 @@
+---
+layout: post
+title: Ghost Detector
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
+For this assignment I wrote code that will turn on all the red LED lights when it is cold enough and dark enough for ghosts to be nearby. A past tip/trick I would give myself would be to help set up my arduino at TA because I couldn't figure out how to set it up propely.
