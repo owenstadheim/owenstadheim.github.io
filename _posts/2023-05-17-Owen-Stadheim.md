@@ -28,6 +28,6 @@ Materials:
 
 ![Mask1 Image](https://owenstadheim.github.io/assets/img/batmanmask.png)
 ![Mask2 Image](https://owenstadheim.github.io/assets/img/batman1.png)
-![Mask3 Image](https://owenstadheim.github.io/assets/img/batman2.png)
+![Mask3 Image](https://owenstadheim.github.io/assets/img/batman4.png)
 ![Mask4 Image](https://owenstadheim.github.io/assets/img/batman3.png)
-![Mask5 Image](https://owenstadheim.github.io/assets/img/batman4.png)
+![Mask5 Image](https://owenstadheim.github.io/assets/img/batman2.png)
