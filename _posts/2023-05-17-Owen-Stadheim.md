@@ -6,7 +6,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-For my Final Project, I made a Batman mask that you could wear. When it gets dark out, the two yellow LEDs on the ears of the Batman mask will light up and the buzzer will play the sound Doom. Growing up, my mom would always make homemade costumes for Halloween and I wanted to try something similar with this mask. Also, when I was a kid I had a storm trooper helmet that would play a sounds when a button was pressed. I wanted to create something similar and chose to do a Batman mask because he is my favorite movie character. 
+For my Final Project, I made a Batman mask that you could wear. When it gets dark out, the two yellow LEDs on the ears of the Batman mask will light up and the buzzer will play the sound Doom. Growing up, my mom would always make homemade costumes for Halloween and I wanted to try something similar with this mask. Also, when I was a kid I had a storm trooper helmet that would play a sound when a button was pressed. I wanted to create something similar and chose to do a Batman mask because he is my favorite movie character. 
 
 Three tips to myself:
 1) Make the mask bigger! I experienced some short circuits because some of my conductive thread was too close together. Making a bigger mask would make it easier to sew the components together without crossing any of the thread.
